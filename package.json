@@ -1,0 +1,19 @@
+{
+  "name": "devopsday-automation-release",
+  "version": "0.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoHuang/devopsday-automation-release.git"
+  },
+  "author": "Diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoHuang/devopsday-automation-release/issues"
+  },
+  "homepage": "https://github.com/DiegoHuang/devopsday-automation-release#readme"
+}
