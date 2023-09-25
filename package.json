@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DiegoHuang/devopsday-automation-release.git"
+    "url": "git@github.com:DiegoHuang/devopsday-automation-release.git"
   },
   "author": "Diego",
   "license": "ISC",
@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/DiegoHuang/devopsday-automation-release#readme",
   "devDependencies": {
-    "husky": "^8.0.0"
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "github:semantic-release/git",
+    "husky": "^8.0.0",
+    "semantic-release": "^22.0.5"
   }
 }
